@@ -1,1 +1,3 @@
 # discordtestbot
+
+crazy :O
